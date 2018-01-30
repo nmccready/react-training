@@ -1,0 +1,3 @@
+[submodule "complete-intro-to-react"]
+	path = complete-intro-to-react
+	url = git@github.com:nmccready/complete-intro-to-react.git

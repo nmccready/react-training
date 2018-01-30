@@ -1,3 +1,6 @@
 [submodule "complete-intro-to-react"]
 	path = complete-intro-to-react
 	url = git@github.com:nmccready/complete-intro-to-react.git
+[submodule "react-server-boilerplate"]
+	path = react-server-boilerplate
+	url = git@github.com:nmccready/react-server-boilerplate.git

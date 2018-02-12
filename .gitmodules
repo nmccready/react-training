@@ -4,3 +4,6 @@
 [submodule "react-server-boilerplate"]
 	path = react-server-boilerplate
 	url = git@github.com:nmccready/react-server-boilerplate.git
+[submodule "egghead-redux-obs"]
+	path = egghead-redux-obs
+	url = git@github.com:nmccready/egghead-redux-obs.git
